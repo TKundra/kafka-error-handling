@@ -1,0 +1,74 @@
+# Ignore Maven and Gradle directories
+/target
+/build
+
+# IntelliJ IDEA files
+/.idea
+*.iml
+*.ipr
+*.iws
+/out
+
+# Eclipse/STS files
+/.project
+/.classpath
+/.settings/
+/bin/
+/tmp
+
+# NetBeans files
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.God
+
+# VS Code files
+/.vscode/
+
+# macOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Log files
+*.log
+/logs
+*.pid
+
+# Spring Boot specific
+/spring.log
+/config/application*.yml
+/config/application*.properties
+
+# Classpath files
+.classpath
+
+# Gradle
+/.gradle
+/build/
+.gradle/
+/!gradle-wrapper.jar
+
+# Maven specific
+/pom.xml.tag
+/pom.xml.releaseBackup
+/pom.xml.versionsBackup
+/pom.xml.next
+/release.properties
+/.mvn/timing.properties
+
+# JRE/JDK
+*.war
+*.ear
+
+# Environment variable files
+.env
+
+# IDE-specific directories
+/.idea/
+/*.iml
